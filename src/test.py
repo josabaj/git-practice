@@ -1,1 +1,1 @@
-print(123)s
+print(123)

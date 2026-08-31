@@ -1,1 +1,1 @@
-salams
+print("Hello World!")
